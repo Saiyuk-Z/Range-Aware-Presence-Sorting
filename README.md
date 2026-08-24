@@ -1,4 +1,4 @@
-#Range-Aware Presence Sorting
+Range-Aware Presence Sorting
 
 A range-based integer sorting approach that first determines the minimum and maximum values, then uses a direct presence/count table to reconstruct the values in ascending order.
 
